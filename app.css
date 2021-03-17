@@ -22,6 +22,12 @@ p.bio {
   margin: 20px 0 40px 0;
 }
 
+h1 {
+  text-align: center;
+  font-weight: bold;
+  margin-bottom: 30px;
+}
+
 ul {
   text-align: center;
   font-size: 150%;
