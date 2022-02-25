@@ -39,12 +39,12 @@ li + li {
 
 a {
   color: white;
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 a:hover {
   color: white;
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 .video-container {
